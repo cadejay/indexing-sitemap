@@ -21,4 +21,7 @@
   <url>
     <loc>https://example.com/a1</loc>
   </url>
+  <url>
+    <loc>https://example.com/a2</loc>
+  </url>
 </urlset>
