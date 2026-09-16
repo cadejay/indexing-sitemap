@@ -18,4 +18,7 @@
   <url>
     <loc>https://example.com/audit-test</loc>
   </url>
+  <url>
+    <loc>https://example.com/a1</loc>
+  </url>
 </urlset>
