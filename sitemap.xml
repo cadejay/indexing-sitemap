@@ -33,4 +33,7 @@
   <url>
     <loc>https://example.com/multiping-test</loc>
   </url>
+  <url>
+    <loc>https://example.com/multiping-verify-1789558823</loc>
+  </url>
 </urlset>
